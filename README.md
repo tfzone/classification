@@ -1,14 +1,20 @@
-﻿# [Classifier](https://github.com/tfzoo/Classifier) 
+﻿# [classification](https://github.com/tfzoo/classification) 
 
 [![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
 
-## [简介](https://github.com/tfzoo/Classifier/wiki) 
+## [简介](https://github.com/tfzoo/classification/wiki) 
 
- A Custom Image Classifier using Transfer Learning on [Inception V3](https://github.com/tfzoo/InceptionV3) 
+## [组成](tfzoo/) 
 
+#### Logistic 
 
+#### SVM
+
+#### NB
 
 ---
 
-###  www.tfzoo.com 
-###  qitas@qitas.cn
+###  [TFZOO：tensorflow models zoo](http://www.tfzoo.com)
+####   qitas@qitas.cn
+####   天府动物园
+[![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
